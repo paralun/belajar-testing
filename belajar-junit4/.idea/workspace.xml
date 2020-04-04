@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11e95a7d-49d7-42f5-af3d-022286094d76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4Q6l1CgIB45oJeBmUNwiGalND" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="JUnit.Exception2Test.testDivisionWithException">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="belajar-junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.paralun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.paralun" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicAnnotationTest.testMethod2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="belajar-junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.paralun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.paralun" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.BasicAnnotationTest" />
+      <option name="METHOD_NAME" value="testMethod2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception1Test.testDivisionWithException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="belajar-junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.paralun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.paralun" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.Exception1Test" />
+      <option name="METHOD_NAME" value="testDivisionWithException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception1Test.testEmptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="belajar-junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.paralun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.paralun" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.Exception1Test" />
+      <option name="METHOD_NAME" value="testEmptyList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exception2Test.testDivisionWithException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="belajar-junit4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.paralun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.paralun" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.Exception2Test" />
+      <option name="METHOD_NAME" value="testDivisionWithException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exception2Test.testDivisionWithException" />
+        <item itemvalue="JUnit.Exception1Test.testEmptyList" />
+        <item itemvalue="JUnit.Exception1Test.testDivisionWithException" />
+        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.BasicAnnotationTest.testMethod2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11e95a7d-49d7-42f5-af3d-022286094d76" name="Default Changelist" comment="" />
+      <created>1585992212073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585992212073</updated>
+      <workItem from="1585992213429" duration="7135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586004755214">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1586004755214" />
+    <state width="1237" height="288" key="GridCell.Tab.0.bottom" timestamp="1586005548953">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="288" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586005548953" />
+    <state width="1237" height="288" key="GridCell.Tab.0.center" timestamp="1586005548953">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="288" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1586005548953" />
+    <state width="1237" height="288" key="GridCell.Tab.0.left" timestamp="1586005548953">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="288" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1586005548953" />
+    <state width="1237" height="288" key="GridCell.Tab.0.right" timestamp="1586005548953">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="288" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1586005548953" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1585993221287">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1585993221287" />
+  </component>
+</project>
