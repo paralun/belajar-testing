@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11e95a7d-49d7-42f5-af3d-022286094d76" name="Default Changelist" comment="" />
+    <list default="true" id="11e95a7d-49d7-42f5-af3d-022286094d76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/paralun/Exception2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/paralun/Exception2Test.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,7 @@
       </list>
     </option>
   </component>
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -25,6 +30,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1a4Q6l1CgIB45oJeBmUNwiGalND" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,10 +40,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
-  <component name="RunManager" selected="JUnit.Exception2Test.testDivisionWithException">
-    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IgnoreTest">
+    <configuration name="IgnoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="belajar-junit4" />
       <extension name="coverage">
         <pattern>
@@ -46,13 +55,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.paralun" />
-      <option name="MAIN_CLASS_NAME" value="com.paralun.AppTest" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.IgnoreTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicAnnotationTest.testMethod2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IgnoreTest.testMath2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="belajar-junit4" />
       <extension name="coverage">
         <pattern>
@@ -61,14 +70,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.paralun" />
-      <option name="MAIN_CLASS_NAME" value="com.paralun.BasicAnnotationTest" />
-      <option name="METHOD_NAME" value="testMethod2" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.IgnoreTest" />
+      <option name="METHOD_NAME" value="testMath2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception1Test.testDivisionWithException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestEquals.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="belajar-junit4" />
       <extension name="coverage">
         <pattern>
@@ -77,14 +86,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.paralun" />
-      <option name="MAIN_CLASS_NAME" value="com.paralun.Exception1Test" />
-      <option name="METHOD_NAME" value="testDivisionWithException" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.TestEquals" />
+      <option name="METHOD_NAME" value="testAdd" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception1Test.testEmptyList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TimeoutRuleTest.testSlowMethod1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="belajar-junit4" />
       <extension name="coverage">
         <pattern>
@@ -93,14 +102,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.paralun" />
-      <option name="MAIN_CLASS_NAME" value="com.paralun.Exception1Test" />
-      <option name="METHOD_NAME" value="testEmptyList" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.TimeoutRuleTest" />
+      <option name="METHOD_NAME" value="testSlowMethod1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exception2Test.testDivisionWithException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TimeoutTest.rto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="belajar-junit4" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +118,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.paralun" />
-      <option name="MAIN_CLASS_NAME" value="com.paralun.Exception2Test" />
-      <option name="METHOD_NAME" value="testDivisionWithException" />
+      <option name="MAIN_CLASS_NAME" value="com.paralun.TimeoutTest" />
+      <option name="METHOD_NAME" value="rto" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Exception2Test.testDivisionWithException" />
-        <item itemvalue="JUnit.Exception1Test.testEmptyList" />
-        <item itemvalue="JUnit.Exception1Test.testDivisionWithException" />
-        <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="JUnit.BasicAnnotationTest.testMethod2" />
+        <item itemvalue="JUnit.IgnoreTest" />
+        <item itemvalue="JUnit.TestEquals.testAdd" />
+        <item itemvalue="JUnit.IgnoreTest.testMath2" />
+        <item itemvalue="JUnit.TimeoutRuleTest.testSlowMethod1" />
+        <item itemvalue="JUnit.TimeoutTest.rto" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585992212073</updated>
       <workItem from="1585992213429" duration="7135000" />
+      <workItem from="1602412513599" duration="5858000" />
     </task>
     <servers />
   </component>
@@ -144,29 +154,45 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586004755214">
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1602413296985">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="96" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1586004755214" />
-    <state width="1237" height="288" key="GridCell.Tab.0.bottom" timestamp="1586005548953">
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1602413296985" />
+    <state width="1237" height="233" key="GridCell.Tab.0.bottom" timestamp="1602422553720">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="288" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586005548953" />
-    <state width="1237" height="288" key="GridCell.Tab.0.center" timestamp="1586005548953">
+    <state width="1237" height="233" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1602422553720" />
+    <state width="1237" height="233" key="GridCell.Tab.0.center" timestamp="1602422553719">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="288" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1586005548953" />
-    <state width="1237" height="288" key="GridCell.Tab.0.left" timestamp="1586005548953">
+    <state width="1237" height="233" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1602422553719" />
+    <state width="1237" height="233" key="GridCell.Tab.0.left" timestamp="1602422553719">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="288" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1586005548953" />
-    <state width="1237" height="288" key="GridCell.Tab.0.right" timestamp="1586005548953">
+    <state width="1237" height="233" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1602422553719" />
+    <state width="1237" height="233" key="GridCell.Tab.0.right" timestamp="1602422553720">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1237" height="288" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1586005548953" />
-    <state x="297" y="153" key="run.anything.popup" timestamp="1585993221287">
+    <state width="1237" height="233" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1602422553720" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1602414008946">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1585993221287" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1602414008946" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1602414008945">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1602414008945" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1602414008945">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1602414008945" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1602414008946">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1602414008946" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1602423093473">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1602423093473" />
   </component>
 </project>
