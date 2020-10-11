@@ -23,3 +23,5 @@ nbproject
 build
 dist
 private
+# Ignore Gradle project-specific cache directory
+.gradle
