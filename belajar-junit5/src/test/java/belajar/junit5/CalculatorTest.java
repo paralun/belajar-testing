@@ -18,6 +18,19 @@ public class CalculatorTest {
     @Test
     public void testAddGagal() {
         Integer result = calculator.add(20, 10);
-        assertEquals(20, result);
+        assertNotEquals(20, result);
+    }
+
+    @Test
+    public void testDivideSuccess() {
+        Integer result = calculator.divide(100, 10);
+        assertEquals(10, result);
+    }
+
+    @Test
+    public void testDivideThrow() {
+        assertThrows(IllegalArgumentException.class, () -> {
+            calculator.divide(10, 0);
+        });
     }
 }
